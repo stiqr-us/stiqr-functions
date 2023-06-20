@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "stiqr-dev",
+    "dev": "stiqr-dev",
+    "prod": "stiqr-us"
+  }
+}
